@@ -60,4 +60,18 @@ public class ValidatorTest {
         assertFalse(isValid);
 
     }
+
+//    @Test
+//    public void isValidNumnerFrom100To999(){
+//        //given
+//        int number = 100;
+//
+//        //when
+//
+//        boolean isValid = Validator.peselValidation(pesel);
+//
+//        //then
+//        assertFalse(isValid);
+//
+//    }
 }
